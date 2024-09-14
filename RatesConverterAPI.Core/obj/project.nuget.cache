@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0Uwsva6Ipg/ZY7Xyx05BHU1auhIB3t1rSvo+30N/kpzip5dM8bW19zm6WpR8E5JkIlRppZzkO1yQ6zpdRO7LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\RatesConverterAPI\\RatesConverterAPI.Core\\RatesConverterAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

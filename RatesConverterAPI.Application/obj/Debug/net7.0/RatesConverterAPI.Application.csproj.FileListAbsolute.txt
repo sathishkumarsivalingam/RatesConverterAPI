@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\bin\Debug\net7.0\RatesConverterAPI.Application.deps.json
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\bin\Debug\net7.0\RatesConverterAPI.Application.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\bin\Debug\net7.0\RatesConverterAPI.Application.pdb
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\bin\Debug\net7.0\RatesConverterAPI.Core.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\bin\Debug\net7.0\RatesConverterAPI.Core.pdb
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.csproj.CopyComplete
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\refint\RatesConverterAPI.Application.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\RatesConverterAPI.Application.pdb
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Application\obj\Debug\net7.0\ref\RatesConverterAPI.Application.dll

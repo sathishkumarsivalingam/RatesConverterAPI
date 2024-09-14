@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\bin\Debug\net7.0\RatesConverterAPI.Core.deps.json
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\bin\Debug\net7.0\RatesConverterAPI.Core.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\bin\Debug\net7.0\RatesConverterAPI.Core.pdb
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\refint\RatesConverterAPI.Core.dll
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\RatesConverterAPI.Core.pdb
+C:\Users\DELL\source\repos\RatesConverterAPI\RatesConverterAPI.Core\obj\Debug\net7.0\ref\RatesConverterAPI.Core.dll
